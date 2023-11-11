@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SecondTask {
+public class House {
         public static void main(String[] args) {
             HashMap<String, Integer> neighbors = new HashMap<>();
             neighbors.put("Иванов Иван Иванович ", 15);

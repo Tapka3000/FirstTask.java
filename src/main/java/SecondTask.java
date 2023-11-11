@@ -21,11 +21,14 @@ public class SecondTask {
                     System.out.println(adultsPeople);
                 }
             }
+
             System.out.println(" ");
             System.out.println("Список до: ");
+
             for (String counter : arrayList){
                 System.out.print(counter + " , ");
             }
+
             System.out.println(" ");
             Collections.sort(arrayList);
 
